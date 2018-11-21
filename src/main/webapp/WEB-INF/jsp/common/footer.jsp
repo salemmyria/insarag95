@@ -5,17 +5,17 @@
 			<p class="footer-links">
 				<a href="#">Accueil</a>
 				·
-				<a href="#">Client</a>
+				<a href="#">Gestions d'alertes</a>
 				·
-				<a href="#">Commande</a>
+				<a href="#">Discussion instantanée</a>
 				·
-				<a href="#">Produit</a>
+				<a href="#">Cartographie</a>
 				·
-				<a href="#">Catégorie</a>
+				<a href="#">Organisation</a>
 				·
 				<a href="#">Contact</a>
 			</p>
 
-			<p class="footer-company-name">Company Name &copy; 2016-2017</p>
+			<p class="footer-company-name">INSARAG95 &copy; 2018-2019</p>
 
  </footer>
